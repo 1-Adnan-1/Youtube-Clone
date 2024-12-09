@@ -2,7 +2,7 @@
 Bu proje, React kullanılarak oluşturulan bir YouTube klonudur ve YouTube'un neredeyse tüm özelliklerini barındırır. 
 Kullanıcılar, video araması yapabilir, farklı kategorilerde içerik keşfedebilir ve videoları izleyebilir.
 
-# 🎯 Projenin Özellikleri
+# 🎯 Projenin Özellikleri
 Ana Sayfa: Kullanıcılar, popüler videoları ve önerilen içerikleri görebilir.
 Trendler: Güncel ve en çok izlenen videoları listeleyebilir.
 Kategoriler:
@@ -16,11 +16,11 @@ Kategoriler:
 - Güzellik ve Kozmetik
 - Arama Fonksiyonu: Kullanıcılar, istedikleri videoları arayarak bulabilir ve izleyebilir.
 - Responsive Tasarım: Farklı ekran boyutlarında sorunsuz çalışır.
-- 
+  
 # 🚀 Kullanılan Teknolojiler
-React: Kullanıcı arayüzü geliştirme
-RapidAPI: Video verilerini almak ve dinamik içerik sağlamak
-CSS: Projenin tasarımı ve stil uygulamaları
+- React: Kullanıcı arayüzü geliştirme
+- RapidAPI: Video verilerini almak ve dinamik içerik sağlamak
+- CSS: Projenin tasarımı ve stil uygulamaları
 
 # 📚 Kullanılan küttphaneler
 - Tailwind
